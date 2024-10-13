@@ -1,0 +1,9 @@
+Number of files: 5
+File space: 4 kilobytes
+
+Files:
+file4.pdf
+file5.pdf
+file6.pdf
+file7.html
+statistics.txt

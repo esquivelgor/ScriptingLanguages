@@ -1,0 +1,7 @@
+-rw-r--r-- 1 velgor velgor 0 Oct  4 00:00 public_html/file1.html
+-rw-r--r-- 1 velgor velgor 0 Dec  4  2024 public_html/file2.html
+-rw-r--r-- 1 velgor velgor 0 Dec  4  2024 public_html/file3.htm
+-rw-r--r-- 1 velgor velgor 0 Feb  5  2024 public_html/file4.pdf
+-rw-r--r-- 1 velgor velgor 0 Feb  7  2024 public_html/file5.pdf
+-rw-r--r-- 1 velgor velgor 0 Feb  9  2024 public_html/file6.pdf
+-rw-r--r-- 1 velgor velgor 0 Feb 11  2024 public_html/file7.html

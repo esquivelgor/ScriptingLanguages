@@ -1,0 +1,6 @@
+Number of files: 2
+File space: 4 kilobytes
+
+Files:
+file1.html
+statistics.txt
